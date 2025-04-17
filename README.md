@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">👨🏾‍💻 Hey, I'm Mo!</h1>
+<h3 align="center">Just a curious learner having fun with code</h3>
 
-<!--
-**MoFunCode/MoFunCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Year Up Student · 🧩 Figuring out Java one “aha!” at a time · 🐛 Currently in a long-term relationship with bugs
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 A Bit About Me  
+I'm 23, speak both Arabic and English, and now I'm learning a whole new language — code!  
+Programming feels like discovering a new way to express myself, and I’m loving the process so far.
+
+[![LinkedIn](https://img.shields.io/badge/-Let's%20connect%20on%20LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-jami/)
+
+<p align="center">
+  <em>"Every bug is a lesson in disguise."</em>
+</p>
