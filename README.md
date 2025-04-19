@@ -8,7 +8,7 @@
 ---
 
 ### 🌍 A Bit About Me  
-I'm 23, speak both Arabic and English, and now I'm learning a whole new language — code!  
+I'm 23, speak Arabic, Tigrinya and English, and now I'm learning a whole new language — code!  
 Programming feels like discovering a new way to express myself, and I’m loving the process so far.
 
 [![LinkedIn](https://img.shields.io/badge/-Let's%20connect%20on%20LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-jami/)
