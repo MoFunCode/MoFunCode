@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👨🏾‍💻 Hey, I'm Mo!
 
-<!--
-**MoFunCode/MoFunCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```java
+public class Mo {
+    String[] languages = {"Java", "Arabic", "English"};
+    int age = 23;
+    String currentFocus = "Year Up Student";
+    
+    public String getPhilosophy() {
+        return "Great code brings people together.";
+    }
+}
+```
 
-Here are some ideas to get you started:
+### About Me
+Just a curious mind who enjoys solving problems with code and connecting with people along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-jami/)
