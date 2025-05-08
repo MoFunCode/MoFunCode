@@ -5,10 +5,6 @@ public class Mo {
     String[] languages = {"Java", "Arabic", "English"};
     int age = 23;
     String currentFocus = "Year Up Student";
-    
-    public String getPhilosophy() {
-        return "Great code brings people together.";
-    }
 }
 ```
 
