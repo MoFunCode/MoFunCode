@@ -33,8 +33,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MoFunCode/MoFunCode/output/snake.svg" alt="Snake animation" />
-
-###
