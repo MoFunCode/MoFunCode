@@ -1,13 +1,3 @@
-#  Hey, I'm Mo!
-
-```java
-public class Mo {
-    String[] languages = {"Java", "Arabic", "English"};
-    int age = 23;
-    String currentFocus = "Year Up Student";
-}
-```
-
 ### About Me
 Just a curious mind who enjoys solving problems with code and connecting with people along the way.
 
