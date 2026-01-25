@@ -95,6 +95,6 @@
 
   <div align="center">
 
-  *Building with purpose, one commit at a time* 🤲
+  *Building with purpose, one commit at a time* 🤲🏾
 
   </div>
