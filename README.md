@@ -19,7 +19,6 @@ No endless swiping. No decision paralysis. Just intentional connections.
 ---
 
 ## 💻 Tech
-## 💻 Tech
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
