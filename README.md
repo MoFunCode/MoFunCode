@@ -20,7 +20,7 @@ No swiping addiction. No decision paralysis. Just real connections.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,maven,hibernate,docker,git,bash,vim,html,css,react,js" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,postgres,maven,hibernate,docker,git,react" />
   </a>
 </p>
 
