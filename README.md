@@ -12,7 +12,7 @@ Eritrean · Grew up in Sudan · Building in Austin ☀️
 
 No swiping addiction. No decision paralysis. Just real connections.
 
-> Backend MVP nearly complete — match lock system, swipe quota, filters, and messaging all shipped ✅
+> Backend complete ✅ — Now building the mobile app in React Native
 
 ---
 
